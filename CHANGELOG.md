@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.0.7a1](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.7a1) (2024-12-02)
+## [0.0.8a1](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.8a1) (2024-12-02)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.6...0.0.7a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.7...0.0.8a1)
 
 **Merged pull requests:**
 
-- import galician translations [\#12](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/12) ([JarbasAl](https://github.com/JarbasAl))
+- import galician and basque translations [\#14](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/14) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
