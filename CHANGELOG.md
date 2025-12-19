@@ -1,8 +1,8 @@
 # Changelog
 
-## [0.0.9a3](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a3) (2025-12-19)
+## [0.0.9a4](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a4) (2025-12-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a2...0.0.9a3)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a2...0.0.9a4)
 
 **Merged pull requests:**
 
