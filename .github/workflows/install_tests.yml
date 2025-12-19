@@ -20,7 +20,7 @@ jobs:
   plugin_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
@@ -40,7 +40,7 @@ jobs:
   osm_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
@@ -57,7 +57,7 @@ jobs:
   msm_tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v6
       - name: Setup Python
         uses: actions/setup-python@v1
         with:
