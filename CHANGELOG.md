@@ -1,8 +1,20 @@
 # Changelog
 
+## [0.0.9a5](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a5) (2026-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a4...0.0.9a5)
+
+**Merged pull requests:**
+
+- Add fr-fr locale [\#26](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/26) ([goldyfruit](https://github.com/goldyfruit))
+
 ## [0.0.9a4](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a4) (2025-12-19)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a2...0.0.9a4)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a3...0.0.9a4)
+
+## [0.0.9a3](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a2...0.0.9a3)
 
 **Merged pull requests:**
 
