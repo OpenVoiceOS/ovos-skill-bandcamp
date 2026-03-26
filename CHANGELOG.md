@@ -31,15 +31,11 @@
 
 ## [0.0.9a1](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a1) (2025-01-25)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/V0.0.8...0.0.9a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.8...0.0.9a1)
 
 **Merged pull requests:**
 
 - fix automations [\#16](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/16) ([JarbasAl](https://github.com/JarbasAl))
-
-## [V0.0.8](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/V0.0.8) (2024-12-02)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.8...V0.0.8)
 
 
 
