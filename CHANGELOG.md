@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.9a7](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a7) (2026-04-04)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a5...0.0.9a7)
+
+**Merged pull requests:**
+
+- ci: modernize GitHub workflows [\#29](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/29) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#28](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/28) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.9a5](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a5) (2026-03-09)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a4...0.0.9a5)
