@@ -1,12 +1,50 @@
 # Changelog
 
-## [0.0.8a1](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.8a1) (2024-12-02)
+## [0.0.9a7](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a7) (2026-04-04)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.7...0.0.8a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a5...0.0.9a7)
 
 **Merged pull requests:**
 
-- import galician and basque translations [\#14](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/14) ([JarbasAl](https://github.com/JarbasAl))
+- ci: modernize GitHub workflows [\#29](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/29) ([JarbasAl](https://github.com/JarbasAl))
+- fix\(i18n\): normalize locale folders to canonical BCP-47 [\#28](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/28) ([JarbasAl](https://github.com/JarbasAl))
+
+## [0.0.9a5](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a5) (2026-03-09)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a4...0.0.9a5)
+
+**Merged pull requests:**
+
+- Add fr-fr locale [\#26](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/26) ([goldyfruit](https://github.com/goldyfruit))
+
+## [0.0.9a4](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a4) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a3...0.0.9a4)
+
+## [0.0.9a3](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a3) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a2...0.0.9a3)
+
+**Merged pull requests:**
+
+- Update actions/checkout action to v6 [\#20](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/20) ([renovate[bot]](https://github.com/apps/renovate))
+- Update dependency python to 3.14 [\#19](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/19) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.0.9a2](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.9a1...0.0.9a2)
+
+**Merged pull requests:**
+
+- chore: Configure Renovate [\#18](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/18) ([renovate[bot]](https://github.com/apps/renovate))
+
+## [0.0.9a1](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/tree/0.0.9a1) (2025-01-25)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/compare/0.0.8...0.0.9a1)
+
+**Merged pull requests:**
+
+- fix automations [\#16](https://github.com/OpenVoiceOS/ovos-skill-bandcamp/pull/16) ([JarbasAl](https://github.com/JarbasAl))
 
 
 
