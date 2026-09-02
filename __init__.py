@@ -2,6 +2,7 @@ from os.path import join, dirname
 from typing import Iterable
 
 from ovos_utils import classproperty
+from ovos_utils.log import log_deprecation
 from ovos_utils.ocp import MediaType, PlaybackType, Playlist, PluginStream
 from ovos_utils.parse import fuzzy_match
 from ovos_utils.process_utils import RuntimeRequirements
@@ -9,9 +10,16 @@ from ovos_workshop.decorators import ocp_search
 from ovos_workshop.skills.common_play import OVOSCommonPlaybackSkill
 from py_bandcamp import BandCamp
 
+from version import VERSION_MAJOR
+
 
 class BandCampSkill(OVOSCommonPlaybackSkill):
     def __init__(self, *args, **kwargs):
+        log_deprecation("ovos-skill-bandcamp is deprecated and will be replaced "
+                         "by ovos-media-provider-bandcamp once the OCP pipeline's "
+                         "MediaProvider dispatch becomes the default search path "
+                         "— install that MediaProvider plugin instead",
+                         deprecation_version=f"{VERSION_MAJOR + 1}.0.0")
         super().__init__(skill_icon=join(dirname(__file__), "res", "logo.png"),
                          supported_media=[MediaType.GENERIC, MediaType.MUSIC],
                          skill_voc_filename="bandcamp_skill",
